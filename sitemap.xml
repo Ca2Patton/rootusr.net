@@ -16,3 +16,7 @@
 	<loc>http://rootusr.net/swiftie.html</loc>
 	<lastmod>2016-04-22</lastmod>
 </url>
+
+<url>
+	<loc>http://rootusr.net/foo/index.html</loc>
+</url>
