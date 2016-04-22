@@ -1,0 +1,25 @@
+{
+  "name": "rootusr",
+  "homepage": "https://github.com/Ca2Patton/rootusr.net",
+  "description": "dependencies for rootusr.net",
+  "main": "js/rootuser.js",
+  "keywords": [
+    "rootusr"
+  ],
+  "authors": [
+    "Caitlin A. Patton"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swiftype-search-jquery": "swiftype-jquery#*",
+    "jquery": "^2.2.3"
+  }
+}

@@ -1,0 +1,6 @@
+# robots.txt for http://www.rootusr.net
+
+User-agent: *
+
+Disallow: /bower_components
+Disallow: /bower.json
