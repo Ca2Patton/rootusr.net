@@ -4,3 +4,7 @@ User-agent: *
 
 Disallow: /bower_components
 Disallow: /bower.json
+Disallow: /node_modules
+Disallow: /jquery.d.ts
+Disallow: /package.json
+
